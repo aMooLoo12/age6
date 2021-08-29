@@ -1,0 +1,6 @@
+input = input("whats your favroite color")
+print("thats a cool color")
+input = input("whats your favroite food")
+print("that sounds delicious... ")
+input = input("whats your favroite animal")
+print("cool!")

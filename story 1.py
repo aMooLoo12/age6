@@ -1,0 +1,13 @@
+a = input("please enter place")
+a1 = input("please enter a name")
+a2 = input("please enter a type of gas")
+a3 = input("please enter a male profession")
+a4 = input("please enter a number")
+a5 = input("deadliy or emotion")
+print("one day at "+ a + " there was a guy named " + a1 + '.')
+print("he was walking when felt a breeze of" + a2 + " when he met " + a3 + '.')
+print("when he met" + a3 )
+print("after work he went to bed. The next day he went to work blah blah blah")
+print("after an hour he found" + a4 + " dead people laying down on the ground. Next to that he sees the "
+                                           ""+ a5)
+print("then he killed "+ a1)
